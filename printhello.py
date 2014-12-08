@@ -1,7 +1,7 @@
 __author__ = 'gazelle'
 
-print 'Supriya Kosalge'
-print 'supriya' + ' atish'
+print 'Supriya Narlawar'
+print 'supriya'
 print '300 \t terrace avenue\n jersey city nj'
 a = 1
 b = 2
